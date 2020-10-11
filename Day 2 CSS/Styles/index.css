@@ -1,0 +1,13 @@
+html{
+    font-family: TW Cen MT;
+}
+
+#pNotInDiv{
+    color:orangered;
+}
+
+.pInDiv{
+    color:lightseagreen;
+    font-weight: bold;
+    margin-left: 0.5em;
+}
